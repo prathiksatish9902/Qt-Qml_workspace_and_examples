@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/Application3D">
+    <file alias="qmldir">/home/prathik/QT_WORKSPACE/QML_projects/Application3D/build/Desktop_Qt_6_9_1-Debug/Application3D/qmldir</file>
+  </qresource>
+</RCC>
+

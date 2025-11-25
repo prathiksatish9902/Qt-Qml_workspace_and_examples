@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/Application3D/">
+    <file alias="main.qml">/home/prathik/QT_WORKSPACE/QML_projects/Application3D/main.qml</file>
+  </qresource>
+</RCC>
+

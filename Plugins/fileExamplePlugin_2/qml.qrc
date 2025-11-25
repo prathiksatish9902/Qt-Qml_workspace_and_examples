@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>TextOperation.qml</file>
+        <file>CsvOperation.qml</file>
+    </qresource>
+</RCC>

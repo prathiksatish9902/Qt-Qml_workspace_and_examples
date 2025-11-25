@@ -1,0 +1,4 @@
+module Application3D
+typeinfo appApplication3D.qmltypes
+prefer :/Application3D/
+
