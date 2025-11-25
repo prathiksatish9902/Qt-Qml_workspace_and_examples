@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_appApplication3D_FILE /home/prathik/QT_WORKSPACE/QML_projects/Application3D/build/Desktop_Qt_6_9_1-Debug/appApplication3D)
+set(__QT_DEPLOY_TARGET_appApplication3D_TYPE EXECUTABLE)

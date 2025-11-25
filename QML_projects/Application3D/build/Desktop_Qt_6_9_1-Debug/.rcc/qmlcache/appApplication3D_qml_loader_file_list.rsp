@@ -1,0 +1,5 @@
+--resource
+/home/prathik/QT_WORKSPACE/QML_projects/Application3D/build/Desktop_Qt_6_9_1-Debug/.qt/rcc/qmake_Application3D.qrc
+--resource
+/home/prathik/QT_WORKSPACE/QML_projects/Application3D/build/Desktop_Qt_6_9_1-Debug/.qt/rcc/appApplication3D_raw_qml_0.qrc
+/Application3D/main.qml
